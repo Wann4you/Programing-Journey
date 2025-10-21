@@ -1,0 +1,7 @@
+D:\C# SMK\Luas_Fungsi_Ridwan_XPPLG2\Luas\bin\Debug\Luas.exe.config
+D:\C# SMK\Luas_Fungsi_Ridwan_XPPLG2\Luas\bin\Debug\Luas.exe
+D:\C# SMK\Luas_Fungsi_Ridwan_XPPLG2\Luas\bin\Debug\Luas.pdb
+D:\C# SMK\Luas_Fungsi_Ridwan_XPPLG2\Luas\obj\Debug\Luas.csproj.AssemblyReference.cache
+D:\C# SMK\Luas_Fungsi_Ridwan_XPPLG2\Luas\obj\Debug\Luas.csproj.CoreCompileInputs.cache
+D:\C# SMK\Luas_Fungsi_Ridwan_XPPLG2\Luas\obj\Debug\Luas.exe
+D:\C# SMK\Luas_Fungsi_Ridwan_XPPLG2\Luas\obj\Debug\Luas.pdb
