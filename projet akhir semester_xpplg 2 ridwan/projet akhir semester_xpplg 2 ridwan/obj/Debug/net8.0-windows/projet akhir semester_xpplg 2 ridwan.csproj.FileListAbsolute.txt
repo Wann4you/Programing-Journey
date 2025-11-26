@@ -1,0 +1,17 @@
+D:\c#RmfXpplg1\projet akhir semester_xpplg 2 ridwan\projet akhir semester_xpplg 2 ridwan\bin\Debug\net8.0-windows\projet akhir semester_xpplg 2 ridwan.exe
+D:\c#RmfXpplg1\projet akhir semester_xpplg 2 ridwan\projet akhir semester_xpplg 2 ridwan\bin\Debug\net8.0-windows\projet akhir semester_xpplg 2 ridwan.deps.json
+D:\c#RmfXpplg1\projet akhir semester_xpplg 2 ridwan\projet akhir semester_xpplg 2 ridwan\bin\Debug\net8.0-windows\projet akhir semester_xpplg 2 ridwan.runtimeconfig.json
+D:\c#RmfXpplg1\projet akhir semester_xpplg 2 ridwan\projet akhir semester_xpplg 2 ridwan\bin\Debug\net8.0-windows\projet akhir semester_xpplg 2 ridwan.dll
+D:\c#RmfXpplg1\projet akhir semester_xpplg 2 ridwan\projet akhir semester_xpplg 2 ridwan\bin\Debug\net8.0-windows\projet akhir semester_xpplg 2 ridwan.pdb
+D:\c#RmfXpplg1\projet akhir semester_xpplg 2 ridwan\projet akhir semester_xpplg 2 ridwan\obj\Debug\net8.0-windows\projet_akhir_semester_xpplg_2_ridwan.Form1.resources
+D:\c#RmfXpplg1\projet akhir semester_xpplg 2 ridwan\projet akhir semester_xpplg 2 ridwan\obj\Debug\net8.0-windows\projet_akhir_semester_xpplg_2_ridwan.Properties.Resources.resources
+D:\c#RmfXpplg1\projet akhir semester_xpplg 2 ridwan\projet akhir semester_xpplg 2 ridwan\obj\Debug\net8.0-windows\projet akhir semester_xpplg 2 ridwan.csproj.GenerateResource.cache
+D:\c#RmfXpplg1\projet akhir semester_xpplg 2 ridwan\projet akhir semester_xpplg 2 ridwan\obj\Debug\net8.0-windows\projet akhir semester_xpplg 2 ridwan.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#RmfXpplg1\projet akhir semester_xpplg 2 ridwan\projet akhir semester_xpplg 2 ridwan\obj\Debug\net8.0-windows\projet akhir semester_xpplg 2 ridwan.AssemblyInfoInputs.cache
+D:\c#RmfXpplg1\projet akhir semester_xpplg 2 ridwan\projet akhir semester_xpplg 2 ridwan\obj\Debug\net8.0-windows\projet akhir semester_xpplg 2 ridwan.AssemblyInfo.cs
+D:\c#RmfXpplg1\projet akhir semester_xpplg 2 ridwan\projet akhir semester_xpplg 2 ridwan\obj\Debug\net8.0-windows\projet akhir semester_xpplg 2 ridwan.csproj.CoreCompileInputs.cache
+D:\c#RmfXpplg1\projet akhir semester_xpplg 2 ridwan\projet akhir semester_xpplg 2 ridwan\obj\Debug\net8.0-windows\projet akhir semester_xpplg 2 ridwan.dll
+D:\c#RmfXpplg1\projet akhir semester_xpplg 2 ridwan\projet akhir semester_xpplg 2 ridwan\obj\Debug\net8.0-windows\refint\projet akhir semester_xpplg 2 ridwan.dll
+D:\c#RmfXpplg1\projet akhir semester_xpplg 2 ridwan\projet akhir semester_xpplg 2 ridwan\obj\Debug\net8.0-windows\projet akhir semester_xpplg 2 ridwan.pdb
+D:\c#RmfXpplg1\projet akhir semester_xpplg 2 ridwan\projet akhir semester_xpplg 2 ridwan\obj\Debug\net8.0-windows\projet akhir semester_xpplg 2 ridwan.genruntimeconfig.cache
+D:\c#RmfXpplg1\projet akhir semester_xpplg 2 ridwan\projet akhir semester_xpplg 2 ridwan\obj\Debug\net8.0-windows\ref\projet akhir semester_xpplg 2 ridwan.dll

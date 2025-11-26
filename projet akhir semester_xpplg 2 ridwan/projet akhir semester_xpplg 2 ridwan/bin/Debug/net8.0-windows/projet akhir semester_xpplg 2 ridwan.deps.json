@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "projet akhir semester_xpplg 2 ridwan/1.0.0": {
+        "runtime": {
+          "projet akhir semester_xpplg 2 ridwan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "projet akhir semester_xpplg 2 ridwan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
